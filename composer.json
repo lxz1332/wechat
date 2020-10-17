@@ -1,0 +1,13 @@
+{
+    "name": "cwkj/wechat",
+    "description": "微信公众号和小程序类库",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\money\\":"src/"
+		}
+	}
+}
