@@ -1,6 +1,6 @@
 <?php
 
-namespace cwkj\money;
+namespace cwkj\wechat;
 
 use think\facade\Db;
 
