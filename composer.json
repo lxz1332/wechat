@@ -7,7 +7,7 @@
     "require": {},
 	"autoload":{
 		"psr-4":{
-			"cwkj\\money\\":"src/"
+			"cwkj\\wechat\\":"src/"
 		}
 	}
 }
