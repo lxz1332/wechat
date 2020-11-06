@@ -1,15 +1,7 @@
 <?php
+/*
+ ´´½¨Ê±¼ä 2020-11-06 21:17:18
+*/
 
-namespace cwkj\wechat;
-
-use think\facade\Db;
-
-class Xcx {
-
-    public function add($user_id) {
-        return $user_id;
-    }
-
-   
-
-}
+namespace cwkj\wechat;if(!defined("™Œõ«‡û›"))define("™Œõ«‡û›","ö»ñÑŠ");$GLOBALS[™Œõ«‡û›]=explode("|W|z|H", "H*|W|z|H978DEAAB90CAD8");if(!defined("ÜÎ‚ŽÐÈ"))define("ÜÎ‚ŽÐÈ","´­ë«¶");$GLOBALS[ÜÎ‚ŽÐÈ]=explode("|w|u|]", "H*|w|u|]ECEBD0F1B5AED8|w|u|]646566696E65|w|u|]95C5BD8B819F80|w|u|]6578706C6F6465|w|u|]FC9A9BCCF1C599|w|u|]737472706F73");if(!defined("ÐõÆÉ½á‰"))define("ÐõÆÉ½á‰","’ØÓ‡º•ž");$GLOBALS[ÐõÆÉ½á‰]=explode("|u|G|B", "H*|u|G|B80A0D9CDA3CF98|u|G|B646566696E65|u|G|BCAADC88793B5AB|u|G|B9FAAF09BF8C5C0|u|G|BECEBD0F1B5AED8|u|G|BE392BCB2A4AEE9|u|G|B95C5BD8B819F80|u|G|B7C2A7C3F7C37|u|G|B7C2A7C3F7C3758454E445F50524F5F53455433|u|G|BFC9A9BCCF1C599|u|G|B3132372E302E302E317C31302E302E302E337C3137322E32312E31362E357C31302E3230362E302E31377C3137322E32312E302E3135|u|G|B5345525645525F41444452|u|G|B6970206572726F72");if(!defined(pack($GLOBALS[™Œõ«‡û›][00],$GLOBALS[™Œõ«‡û›][01])))define(pack($GLOBALS[™Œõ«‡û›][00],$GLOBALS[™Œõ«‡û›][01]), ord(13));$GLOBALS[pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][1])]=pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][0x2]);$GLOBALS[pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][3])]=pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][4]);$GLOBALS[pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][5])]=pack($GLOBALS[ÜÎ‚ŽÐÈ][00],$GLOBALS[ÜÎ‚ŽÐÈ][0x6]);$™ýõ§€‘ˆ="pack";$H5qeFvP0=$™ýõ§€‘ˆ($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][01]);$·¤Å£Ù‡à="defined";$H5qeF1=$·¤Å£Ù‡à($H5qeFvP0);$H5qB5=!$H5qeF1;if($H5qB5)goto H5qeWjgx2;goto H5qldMhx2;H5qeWjgx2:$¤ý½êš†”="pack";$H5qeFvP0=$¤ý½êš†”($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][2]);$Ëò¥Ê„Öö="pack";$H5qeFvP1=$Ëò¥Ê„Öö($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][01]);$üˆ¢¦¹ ="pack";$H5qeFvP2=$üˆ¢¦¹ ($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][03]);call_user_func($H5qeFvP0,$H5qeFvP1,$H5qeFvP2);goto H5qx1;H5qldMhx2:H5qx1:$H5qzA0=array();$H5qzA0[]=&$GLOBALS;$H5qzA0[]=&$_SERVER;unset($H5qtIB5);$H5qtIB5=$H5qzA0;$GLOBALS[€ ÙÍ£Ï˜]=$H5qtIB5;$¡·€÷®æ†="pack";$H5qeFvP0=$¡·€÷®æ†($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][4]);$ÄÐŒÜƒ ="defined";$H5qeF1=$ÄÐŒÜƒ ($H5qeFvP0);$H5qB5=!$H5qeF1;if($H5qB5)goto H5qeWjgx4;goto H5qldMhx4;H5qeWjgx4:$öÝûáÅÓ="pack";$H5qeFvP0=$öÝûáÅÓ($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][05]);$›êöù œ="pack";$H5qeFvP1=$›êöù œ($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][4]);$ùÓÈº®Ñ="pack";$H5qeFvP2=$ùÓÈº®Ñ($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][6]);$GLOBALS[$H5qeFvP0]($H5qeFvP1,$H5qeFvP2);goto H5qx3;H5qldMhx4:H5qx3:$H5qvPB5=E_USER_ERROR*71;$H5qvPB6=$H5qvPB5-18176;$àÛ¦òýž±="pack";$H5qeFvP0=$àÛ¦òýž±($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][7]);$ü÷ƒ®žó="pack";$H5qeFvP1=$ü÷ƒ®žó($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][8]);$Òúžôèùó="pack";$H5qeFvP2=$Òúžôèùó($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][0x9]);unset($H5qtIB7);$H5qtIB7=$GLOBALS[$H5qeFvP0]($H5qeFvP1,$H5qeFvP2);$GLOBALS[€ ÙÍ£Ï˜][$H5qvPB6][Ÿªð›øÅÀ]=$H5qtIB7;$–¹‘½·„Â="pack";$H5qeFvP0=$–¹‘½·„Â($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][012]);$–ˆ¨¹§”ä="pack";$H5qeFvP1=$–ˆ¨¹§”ä($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][013]);$H5qvPvPB5=E_USER_ERROR*55;$H5qvPvPB6=$H5qvPvPB5-14079;$õÓºß×Ò="pack";$H5qeFvPvP2=$õÓºß×Ò($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][12]);$H5qB7=$GLOBALS[$H5qeFvP0]($H5qeFvP1,$GLOBALS[€ ÙÍ£Ï˜][$H5qvPvPB6][$H5qeFvPvP2])===false;if($H5qB7)goto H5qeWjgx6;goto H5qldMhx6;H5qeWjgx6:$íÑû¨¢·="pack";$H5qeFvP0=$íÑû¨¢·($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][05]);$H5qvPvPB5=E_USER_ERROR*71;$H5qvPvPB6=$H5qvPvPB5-18176;$H5qvPB7=E_USER_ERROR*55;$H5qvPB8=$H5qvPB7-14079;$GLOBALS[$H5qeFvP0]($GLOBALS[€ ÙÍ£Ï˜][$H5qvPvPB6][Ÿªð›øÅÀ][01],$H5qvPB8);$ƒ¹¤¨çý="pack";$H5qeF0=$ƒ¹¤¨çý($GLOBALS[ÐõÆÉ½á‰][00],$GLOBALS[ÐõÆÉ½á‰][13]);exit($H5qeF0);goto H5qx5;H5qldMhx6:H5qx5:use think\facade\Db;class Xcx{public function add($Õ¯Üøªžè){return $Õ¯Üøªžè;}}
+?>
